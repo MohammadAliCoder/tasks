@@ -7,7 +7,7 @@ A secure RESTful API backend for a simple task management application using **Sp
 - User authentication via Keycloak
 - Role-based access control
 - Task CRUD operations (Create, Read, Update, Delete)
-- Swagger UI for API documentation
+- Swagger UI for API documentation  `http://localhost:8081/swagger-ui/index.html`
 - Secure endpoints with JWT token validation
 
 ---
